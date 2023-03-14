@@ -3,10 +3,12 @@ title: "About this site"
 permalink: "/about"
 ---
 
-# About this sire
+# About this site
 
 This site is an example of using GitHibs's actions for continuous
 delivery and continuous integration
+
+I am just gonna try this out to see what happens
 
 When we push:
 
